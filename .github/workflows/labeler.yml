@@ -1,0 +1,15 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Labeler
+
+# Controls when the action will run. 
+on: [pull_request]
+
+jobs:
+  label:
+    
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/labeler@v3
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}" 
