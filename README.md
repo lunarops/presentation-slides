@@ -10,3 +10,4 @@ Repository of Lunar Ops, Inc. presentation slides
 
 * [DevOps Transformation - November 11, 2020](01-devops-transformation/presentation.pdf)
 * [Build a DevOps Homelab with K3s - December 26, 2020](02-build-a-devops-homelab-with-k3s/presentation.pdf)
+* [How to become a DevOps Engineer](03-how-to-become-a-devops-engineer/presentation.pdf)
